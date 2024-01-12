@@ -2,7 +2,9 @@
 
 ## Descripción
 
-Añadir flechas de dirección y otros botones no disponibles en movil
+Añadir flechas de dirección a termux y otros botones no disponibles en movil
+
+Eng: Add direction arrows and other buttons to termux
 
 ## Requerimientos
 - Permiso 744 en el archivo Main
